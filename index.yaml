@@ -3,12 +3,12 @@ entries:
   zipkin:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-02-01T09:40:58.009336-03:00"
+    created: "2022-02-01T10:30:25.291842-03:00"
     description: A Helm chart for Kubernetes
-    digest: 501864de6580e5f5dccbc97528c2ac7a9193927373d6fb2e70de980592dff113
+    digest: 7666b93fec58aad392e891f32713b01bb04e91826467e0636fbd758c8bbb6fcb
     name: zipkin
     type: application
     urls:
     - zipkin-0.1.0.tgz
     version: 0.1.0
-generated: "2022-02-01T09:40:58.005917-03:00"
+generated: "2022-02-01T10:30:25.290552-03:00"
