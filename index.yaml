@@ -1,31 +1,9 @@
 apiVersion: v1
 entries:
-  gitrepotest:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2022-02-01T09:32:50.536485-03:00"
-    description: A Helm chart for Kubernetes using GIT REPO
-    digest: 650a41a14591a7e407e38ba3bc3e4952c1956cf1213736436d8f3c40197b1b30
-    name: gitrepotest
-    type: application
-    urls:
-    - gitrepotest-0.1.0.tgz
-    version: 0.1.0
-  gitrepotest2:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2022-02-01T09:32:50.537342-03:00"
-    description: A Helm chart for Kubernetes from GITHUB second
-    digest: d89a37e3eafd0cd44a3f8e7d6b4d57cd55b9a534519b37f07682ec1550fb6fe1
-    name: gitrepotest2
-    type: application
-    urls:
-    - gitrepotest2-0.2.0.tgz
-    version: 0.2.0
   zipkin:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-02-01T09:32:50.541322-03:00"
+    created: "2022-02-01T09:40:58.009336-03:00"
     description: A Helm chart for Kubernetes
     digest: 501864de6580e5f5dccbc97528c2ac7a9193927373d6fb2e70de980592dff113
     name: zipkin
@@ -33,4 +11,4 @@ entries:
     urls:
     - zipkin-0.1.0.tgz
     version: 0.1.0
-generated: "2022-02-01T09:32:50.534639-03:00"
+generated: "2022-02-01T09:40:58.005917-03:00"
