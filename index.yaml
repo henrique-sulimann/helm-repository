@@ -3,9 +3,9 @@ entries:
   golang-restapi:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-05-20T13:38:53.117775-03:00"
+    created: "2022-05-20T13:55:39.643878-03:00"
     description: A Helm chart for Kubernetes
-    digest: 1d574c66312a4d822c83ed4a5f1a6c31446196718d8d0def70e506723141d722
+    digest: dcc086401d2ed5aee554ff60d3b7900f03fb124d1adf5c224f5841d100aa76a2
     name: golang-restapi
     type: application
     urls:
@@ -14,7 +14,7 @@ entries:
   zipkin:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-05-20T13:38:53.121021-03:00"
+    created: "2022-05-20T13:55:39.64711-03:00"
     description: A Helm chart for Kubernetes
     digest: aa1ddd037e0f8479a0cb3d4481674908749f7cf8d2c42a83bb688b12877a39fa
     name: zipkin
@@ -24,7 +24,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-05-20T13:38:53.119278-03:00"
+    created: "2022-05-20T13:55:39.645351-03:00"
     description: A Helm chart for Kubernetes
     digest: 9bb66f39a34bd8d9bfd78c2e488e3bf565e82b7ad2591783c22df328d7d9cdf6
     name: zipkin
@@ -32,4 +32,4 @@ entries:
     urls:
     - zipkin-0.1.0.tgz
     version: 0.1.0
-generated: "2022-05-20T13:38:53.115592-03:00"
+generated: "2022-05-20T13:55:39.642476-03:00"
